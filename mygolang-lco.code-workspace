@@ -1,14 +1,17 @@
 {
   "folders": [
-	{
-		"path": "."
-	},
-	{
-		"path": "02variables"
-	},
-	{
-		"path": "03userInput"
-	}
-],
+    {
+      "path": "."
+    },
+    {
+      "path": "02variables"
+    },
+    {
+      "path": "03userInput"
+    },
+    {
+      "path": "04conversions"
+    }
+  ],
   "settings": {}
 }
