@@ -11,6 +11,24 @@
     },
     {
       "path": "04conversions"
+    },
+    {
+      "path": "05timestudy"
+    },
+    {
+      "path": "06array"
+    },
+    {
+      "path": "07slices"
+    },
+    {
+      "path": "10Maps"
+    },
+    {
+      "path": "11Structs"
+    },
+    {
+      "path": "12ifelse"
     }
   ],
   "settings": {}
